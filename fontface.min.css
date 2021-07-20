@@ -1,0 +1,609 @@
+
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8" /><base id="ctl00_baseMasterBase" href="https://www.promoafrica.com/demo/"></base>
+    
+
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+
+    <title>
+	Corporate Clothing & Corporate Gifts
+</title><meta name="description" content="South Africa&#39;s leading importer and brander of Corporate Clothing, Corporate Gifts, Promotional Gifts, Promotional Clothing, Caps, Pens, Keyrings, Drinkware, Bags, Coolers, Writing Instruments, Executive Gifts and Novelties" /><meta name="keywords" content="Corporate Clothing,Promotional Clothing,Corporate Gifts,gifts,promotional,printing,Promotional Gifts,Branding,Clothing,Corporate,Catalogue,Products,Toolbox,Caps,marketing" />
+
+    <!-- Mobile specific -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="../../css/fontface.min.css" />
+
+    <script src="https://use.fontawesome.com/c0090a41c2.js"></script>
+    <link rel="stylesheet" href="https://d33yj9nw58rehz.cloudfront.net/promogifts/css/bundle75.min.css" />
+
+    <script src="https://d33yj9nw58rehz.cloudfront.net/promogifts/js/vendor.bundle1.min.js"></script>
+    <script src='https://d33yj9nw58rehz.cloudfront.net/js/scroll-frame-head.js'></script>
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous" />
+    <!-- IE <3 -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Facebook Pixel Code -->
+    <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '397549777471086');
+      fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=397549777471086&ev=PageView&noscript=1"/></noscript>
+    <!-- End Facebook Pixel Code -->
+</head>
+
+<body>
+
+    <form name="aspnetForm" method="post" action="./fontface.min.css?404%3bhttps%3a%2f%2fwww.promoafrica.com%3a443%2fdemo%2fcss%2ffontface.min.css" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATEGUID__" id="__VIEWSTATEGUID__" value="x0yi5jlj3xjoncjxewqw2qzz\637623991097606322" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+
+        <div id="ctl00_pnlContact">
+	
+            <nav class="navbar navbar-default navbar-top" role="navigation">
+                <div class="container topLinkContainer">
+                    <div class="row">
+                        <ul class="nav navbar-nav navbar-left">
+                            <li class="dropdown default-dropdown">
+                                <a href='tel:0114579646'><i class='fa fa-phone NavPhoneIcon'></i> 0114579646</a>
+                            </li>
+                            <li class="dropdown default-dropdown">
+                                <a href="../../#" id="ctl00_ShowPartnerEmail" style="font-size: 13px;" class="dropdown-toggle" data-toggle="dropdown">
+                                    <i class="far fa-envelope" style="font-size: 20px;"></i>
+                                </a>
+                                <a href='mailto:info@thetestsite.co.za' style='padding-left: 0;line-height: 23px;'>info@thetestsite.co.za</a><ul class='dropdown-menu' role='menu'><li><a href='mailto:info@thetestsite.co.za'>info@thetestsite.co.za</a></li></ul>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+            </nav>
+        
+</div>
+
+        
+        <div class="modal fade" id="searchByPage" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-login">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">x</span></button>
+                        <h3 class="modal-title">Search By Catalogue Page</h3>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-horizontal">
+                            <div class="form-group ">
+                                <select id="ddlCatalogue" class="form-control chosen-select hidden-xs hidden-sm">
+                                    <option value="0">Select catalogue</option>
+                                    <option value="1">Gifts Catalogue</option>
+                                    <option value="2">Clothing and Headwear Catalogue</option>
+                                </select>
+                            </div>
+                            <div class="form-group ">
+                                <input type="text" id="txtsearchPageNumber" class="form-control" placeholder="Page Number" />
+                            </div>
+                            <a href="javascript:SearchPageNumber()" class="btn btn-inline blue">Search</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <header role="banner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 search-target">
+                        <a class="navbar-brand" href="../../Default.aspx"><img id="ctl00_imgPartnerLogo" class="img-responsive" src="/Imaging/Logo.aspx?Store=77a8c4f4-9bad-4bae-9448-16b37eb379bf&amp;Partner=bdae2408-7254-46fc-8cb3-949acef420db&amp;BGColor=000000" style="border-width:0px;" /></a>
+
+                        <div class="form-inline search-mini">
+                            <div class="form-group" style="width:100%;">
+
+                                <input name="ctl00$txtMasterSearchBox" id="txtMasterSearchBox" class="form-control" placeholder="What are you looking for?" type="search" />
+
+                                <a class="lnkMasterSearch" href="javascript:__doPostBack(&#39;ctl00$ctl12&#39;,&#39;&#39;)"><i class="fa fa-search" aria-hidden="true"></i></a>
+
+                                
+
+                            </div>
+                                <a href="#" data-toggle="modal" data-target="#searchByPage" class="lnk-blue hidden-xs hidden-sm">Search By Catalogue Page</a>
+                        </div>
+                        <!--/.search-mini -->
+                    </div>
+                </div>
+            </div>
+
+            
+
+<nav class="navbar yamm navbar-default navbar-primary" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+    </div>
+
+    <div class="container navbar-primary-wrap">
+        <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav search-mobile">
+
+                <li class="dropdown yamm-fw">
+                    <a class="dropdown-toggle" data-toggle="dropdown">Gifts <i class="fa fa-angle-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-sm-4 col-md-3 col-lg-3 yamm-main">
+                                            <div class="col-lg-12 yamm-main-wrap">
+                                                <span class="title">
+                                                    <a id="ctl00_ctl13_navGifts" class="nmLink" href="../../catalogue/corporate-gifts">Categories</a>
+                                                </span>
+                                                <div class="row">
+                                                    <ul style="white-space: nowrap;" class="col-md-4"><li><a href="catalogue/corporate-gifts,hand-sanitiser-promotion">Hand Sanitiser Promotion</a></li><li><a style="color:red;" href="catalogue/corporate-gifts,marked-to-clear">Marked To Clear</a></li><li><a href="catalogue/corporate-gifts,brand-new">Brand New</a></li><li><a href="catalogue/corporate-gifts,items-launched-out-of-catalogue">Items Launched Out Of Catalogue</a></li><li><a href="catalogue/corporate-gifts,covid-19-products">Covid-19 Products</a></li><li><a href="catalogue/corporate-gifts,bags">Bags</a></li><li><a href="catalogue/corporate-gifts,blankets">Blankets</a></li><li><a href="catalogue/corporate-gifts,coolers-outdoor">Coolers and Outdoor</a></li><li><a href="catalogue/corporate-gifts,drinkware-food">Drinkware and Food</a></li><li><a href="catalogue/corporate-gifts,executive-gifts-travel">Executive Gifts and Travel</a></li><li><a href="catalogue/corporate-gifts,folders-tablet-holders">Folders and Tablet Holders</a></li><li><a href="catalogue/corporate-gifts,giftsets">Giftsets</a></li><li><a href="catalogue/corporate-gifts,awards-medals">Awards and Medals</a></li><li><a href="catalogue/corporate-gifts,golf">Golf</a></li><li><a href="catalogue/corporate-gifts,home-living">Home and Living</a></li><li><a href="catalogue/corporate-gifts,keyholders">Keyholders</a></li><li><a href="catalogue/corporate-gifts,lanyards">Lanyards</a></li><li><a href="catalogue/corporate-gifts,memory-sticks">Memory Sticks</a></li><li><a href="catalogue/corporate-gifts,mobile-technology">Mobile Technology</a></li><li><a href="catalogue/corporate-gifts,notebooks">Notebooks</a></li><li><a href="catalogue/corporate-gifts,on-road">On the Road</a></li><li><a href="catalogue/corporate-gifts,packaging-ideas">Packaging Ideas</a></li><li><a href="catalogue/corporate-gifts,pamper-gifts">Pamper Gifts</a></li><li><a href="catalogue/corporate-gifts,personal-care">Personal Care</a></li><li><a href="catalogue/corporate-gifts,promotional-giveaways">Promotional Giveaways</a></li><li><a href="catalogue/corporate-gifts,sports-wellness">Sports and Wellness</a></li><li><a href="catalogue/corporate-gifts,stationery">Stationery</a></li><li><a href="catalogue/corporate-gifts,tools-torches-knives">Tools Torches and Knives</a></li><li><a href="catalogue/corporate-gifts,umbrellas">Umbrellas</a></li><li><a href="catalogue/corporate-gifts,writing-instruments">Writing Instruments</a></li><li><a href="catalogue/corporate-gifts,selling-tools">Selling Tools</a></li></ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-4 col-md-3 col-lg-3 yamm-main">
+                                            <div class="col-lg-12 yamm-main-wrap">
+                                                <span class="title">Brands</span>
+                                                <div class="row">
+                                                    <ul style="white-space: nowrap;" class="col-md-4"><li><a href="catalogue/brands,altitude-gifts">Altitude Gifts</a></li><li><a href="catalogue/brands,alex-varga">Alex Varga</a></li><li><a href="catalogue/brands,andy-cartwright">Andy Cartwright</a></li><li><a href="catalogue/brands,cutter-buck">Cutter  Buck</a></li><li><a href="catalogue/brands,elleven">Elleven</a></li><li><a href="catalogue/brands,eva-elm">Eva and Elm</a></li><li><a href="catalogue/brands,gary-player-collection">Gary Player Collection</a></li><li><a href="catalogue/brands,kooshty">Kooshty</a></li><li><a href="catalogue/brands,moptopper">Moptopper</a></li><li><a href="catalogue/brands,okiyo">Okiyo</a></li><li><a href="catalogue/brands,slazenger">Slazenger</a></li><li><a href="catalogue/brands,swiss-cougar">Swiss Cougar</a></li><li><a href="catalogue/brands,xd-design">XD Design</a></li></ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-4 col-md-3 col-lg-3 yamm-main">
+                                            <div class="col-lg-12 yamm-main-wrap">
+                                                <span class="title" style="font-size: 24px;">Themes and Collections</span>
+                                                <div class="row">
+                                                    <ul style="white-space: nowrap;" class="col-md-4"><li><a href="catalogue/collections-themes,axis-memory-stick-collection">Axis Memory Stick Collection</a></li><li><a href="catalogue/collections-themes,back-to-school">Back To School</a></li><li><a href="catalogue/collections-themes,back-to-work-school">Back To Work And School</a></li><li><a href="catalogue/collections-themes,care-pack-ideas">Care Pack Ideas</a></li><li><a href="catalogue/collections-themes,eco-friendly-ideas">Eco-Friendly Ideas</a></li><li><a href="catalogue/collections-themes,golf-day-ideas">Golf Day Ideas</a></li><li><a href="catalogue/collections-themes,hygiene-wellness-kits">Hygiene And Wellness Kits</a></li><li><a href="catalogue/collections-themes,ideas-for-kids">Ideas For Kids</a></li><li><a href="catalogue/collections-themes,ideas-for-men">Ideas For Men</a></li><li><a href="catalogue/collections-themes,ideas-for-women">Ideas For Womens Day</a></li><li><a href="catalogue/collections-themes,spotlight-slazenger-collection">Spotlight Slazenger Collection</a></li><li><a href="catalogue/collections-themes,sizzling-summer-handouts">Sizzling Summer Handouts</a></li><li><a href="catalogue/collections-themes,top-promotional-giveaways">Top Promotional Giveaways</a></li><li><a href="catalogue/collections-themes,ideas-for-beach">Ideas for the Beach</a></li><li><a href="catalogue/collections-themes,travel-essentials">Travel Essentials</a></li><li><a href="catalogue/collections-themes,new-gift-sets">New Gift Sets</a></li></ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3 col-lg-3 hidden-xs hidden-sm yamm-side">
+                                            <span class="title">Recommended:</span>
+                                            
+                                                    <a id="ctl00_ctl13_rptrFeatuedGifts_ctl00_lnkFeaturedProductInfo" class="drodpown-recommended" href="/catalogue/brands,swiss-cougar/swiss-cougar-spectre-tech-backpack">
+                                                        <div class="image-wrap">
+                                                            <img id="ctl00_ctl13_rptrFeatuedGifts_ctl00_imgFeaturedProductImage" alt="BAG-4783" title="Swiss Cougar Spectre Tech Backpack" src="https://productcatalogue2015.s3.amazonaws.com/BAG-4783_260_250.jpg" style="border-width:0px;" />
+                                                        </div>
+                                                        <span id="ctl00_ctl13_rptrFeatuedGifts_ctl00_lblFeaturedProductName" class="title-wrap">Swiss Cougar Spectre Tech Backpack</span></a>
+                                                
+                                                    <a id="ctl00_ctl13_rptrFeatuedGifts_ctl01_lnkFeaturedProductInfo" class="drodpown-recommended" href="/catalogue/brands,alex-varga/alex-varga-samara-laptop-backpack">
+                                                        <div class="image-wrap">
+                                                            <img id="ctl00_ctl13_rptrFeatuedGifts_ctl01_imgFeaturedProductImage" alt="AV-19150" title="Alex Varga Samara Laptop Backpack" src="https://productcatalogue2015.s3.amazonaws.com/AV-19150_260_250.jpg" style="border-width:0px;" />
+                                                        </div>
+                                                        <span id="ctl00_ctl13_rptrFeatuedGifts_ctl01_lblFeaturedProductName" class="title-wrap">Alex Varga Samara Laptop Backpack</span></a>
+                                                
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <!--/.dropdown-menu -->
+                </li>
+
+                <li class="dropdown yamm-fw">
+                    <a class="dropdown-toggle" data-toggle="dropdown">Clothing <i class="fa fa-angle-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-sm-6 col-md-3 yamm-main">
+                                            <div class="col-lg-12 yamm-main-wrap">
+                                                <span class="title">
+                                                    <a id="ctl00_ctl13_navClothing" class="nmLink" href="../../catalogue/corporate-clothing">Categories</a></span>
+
+                                                <div class="row">
+                                                    <ul style="white-space: nowrap;" class="col-md-4"><li><a href="catalogue/corporate-clothing,winter-super-clearance-sale">Winter Super Clearance Sale</a></li><li><a style="color:red;" href="catalogue/corporate-clothing,marked-to-clear-1">Marked To Clear</a></li><li><a href="catalogue/corporate-clothing,jackets">Jackets</a></li><li><a href="catalogue/corporate-clothing,bodywarmers">Bodywarmers</a></li><li><a href="catalogue/corporate-clothing,fleece-sweaters">Fleece and Sweaters</a></li><li><a href="catalogue/corporate-clothing,hoodies">Hoodies</a></li><li><a href="catalogue/corporate-clothing,tshirts">T-Shirts</a></li><li><a href="catalogue/corporate-clothing,golf-shirts">Golf Shirts</a></li><li><a href="catalogue/corporate-clothing,lounge-shirts">Lounge Shirts</a></li><li><a href="catalogue/corporate-clothing,pants-skirts-belts">Pants Skirts and Belts</a></li><li><a href="catalogue/corporate-clothing,bush-shirts">Bush Shirts</a></li><li><a href="catalogue/corporate-clothing,pitt-shirts">Pitt Shirts</a></li><li><a href="catalogue/corporate-clothing,knitwear">Knitwear</a></li><li><a href="catalogue/corporate-clothing,tracksuits">Tracksuits</a></li><li><a href="catalogue/corporate-clothing,conti-suits">Conti Suits</a></li><li><a href="catalogue/corporate-clothing,kids-clothing">Kids Clothing</a></li><li><a href="catalogue/corporate-clothing,footwear">Footwear</a></li></ul>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-sm-6 col-md-3 yamm-main">
+                                            <div class="col-lg-12 yamm-main-wrap">
+                                                <span class="title">Brands</span>
+                                                <div class="row hidden-xs hidden-sm">
+                                                    <ul style="white-space: nowrap;" class="col-md-4"><li><a href="catalogue/brands,altitude-clothing">Altitude Clothing</a></li><li><a href="catalogue/brands,biz-collection">Biz Collection</a></li><li><a href="catalogue/brands,cutter-buck">Cutter  Buck</a></li><li><a href="catalogue/brands,elevate">Elevate</a></li><li><a href="catalogue/brands,gary-player-collection">Gary Player Collection</a></li><li><a href="catalogue/brands,slazenger">Slazenger</a></li><li><a href="catalogue/brands,us-basic">US Basic</a></li></ul>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-md-6 hidden-xs hidden-sm yamm-side">
+                                            <span class="title">Recommended:</span>
+                                            <div class="row">
+
+                                                <div class="col-md-6">
+                                                    
+                                                            <a id="ctl00_ctl13_rptrFeatuedClothing1_ctl00_lnkFeaturedProductInfo" class="drodpown-recommended" href="/catalogue/corporate-clothing,knitwear/mens-1-4-zip-waverley-jersey">
+                                                                <div class="image-wrap">
+                                                                    <img id="ctl00_ctl13_rptrFeatuedClothing1_ctl00_imgFeaturedProductImage" alt="ALT-WVY" title="Mens 1/4 Zip Waverley Jersey" src="https://productcatalogue2020.s3.amazonaws.com/ALT-WVY_260_250.jpg" style="border-width:0px;" />
+                                                                </div>
+                                                                <span id="ctl00_ctl13_rptrFeatuedClothing1_ctl00_lblFeaturedProductName" class="title-wrap">Mens 1/4 Zip Waverley Jersey</span></a>
+                                                        
+                                                            <a id="ctl00_ctl13_rptrFeatuedClothing1_ctl01_lnkFeaturedProductInfo" class="drodpown-recommended" href="/catalogue/brands,slazenger/ladies-astana-jacket">
+                                                                <div class="image-wrap">
+                                                                    <img id="ctl00_ctl13_rptrFeatuedClothing1_ctl01_imgFeaturedProductImage" alt="SLAZ-11425" title="Ladies Astana Jacket" src="https://productcatalogue2020.s3.amazonaws.com/SLAZ-11425_260_250.jpg" style="border-width:0px;" />
+                                                                </div>
+                                                                <span id="ctl00_ctl13_rptrFeatuedClothing1_ctl01_lblFeaturedProductName" class="title-wrap">Ladies Astana Jacket</span></a>
+                                                        
+                                                </div>
+
+                                                <div class="col-md-6">
+                                                    
+                                                            <a id="ctl00_ctl13_rptrFeatuedClothing2_ctl00_lnkFeaturedProductInfo" class="drodpown-recommended" href="/catalogue/corporate-clothing,jackets/ladies-kortina-reversible-jacket">
+                                                                <div class="image-wrap">
+                                                                    <img id="ctl00_ctl13_rptrFeatuedClothing2_ctl00_imgFeaturedProductImage" alt="ELE-11503" title="Ladies Kortina Reversible Jacket" src="https://productcatalogue2020.s3.amazonaws.com/ELE-11503_260_250.jpg" style="border-width:0px;" />
+                                                                </div>
+                                                                <span id="ctl00_ctl13_rptrFeatuedClothing2_ctl00_lblFeaturedProductName" class="title-wrap">Ladies Kortina Reversible Jacket</span></a>
+                                                        
+                                                            <a id="ctl00_ctl13_rptrFeatuedClothing2_ctl01_lnkFeaturedProductInfo" class="drodpown-recommended" href="/catalogue/brands,altitude-clothing/kids-palermo-softshell-jacket">
+                                                                <div class="image-wrap">
+                                                                    <img id="ctl00_ctl13_rptrFeatuedClothing2_ctl01_imgFeaturedProductImage" alt="ALT-PAK" title="Kids Palermo Softshell Jacket" src="https://productcatalogue2020.s3.amazonaws.com/ALT-PAK_260_250.jpg" style="border-width:0px;" />
+                                                                </div>
+                                                                <span id="ctl00_ctl13_rptrFeatuedClothing2_ctl01_lblFeaturedProductName" class="title-wrap">Kids Palermo Softshell Jacket</span></a>
+                                                        
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <!--/.dropdown-menu -->
+                </li>
+
+                <!-- Display -->
+                <li class="dropdown yamm-fw liDisplayMenu">
+                    <a id="ctl00_ctl13_lnkDisplayMenu" class="dropdown-toggle" href="../../catalogue/display">Display</a>
+	                
+                </li>
+
+                <!-- Hospitality -->
+                <li class="dropdown yamm-fw">
+	                <a class="dropdown-toggle" data-toggle="dropdown" style="padding-left:5px;">Hospitality <i class="fa fa-angle-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content">
+                                <div class="container">
+                                    <div class="row"> 
+						                <div class="col-md-12 col-lg-12 yamm-main">
+                                            <div class="col-lg-12">
+								                <span class="title">
+									                <a id="ctl00_ctl13_HyperLink2" title="View All Hospitality Items" class="nmLink" href="../../catalogue/hospitality">Categories</a>
+								                </span>
+                                                <div class="row">
+									                <ul style="white-space: nowrap;" class="col-md-3"><li><a href="catalogue/hospitality,aprons">Aprons</a></li><li><a href="catalogue/hospitality,chefs-jackets">Chefs Jackets</a></li><li><a href="catalogue/hospitality,headwear">Headwear</a></li><li><a href="catalogue/hospitality,footwear">Footwear</a></li></ul>
+                                                </div>
+                                            </div>
+                                        </div>
+					                </div>
+				                </div>
+			                </div>
+                        </li>
+	                </ul><!--/.dropdown-menu -->
+                </li>
+
+                <li class="dropdown yamm-fw">
+                    <a class="dropdown-toggle" data-toggle="dropdown">Headwear <i class="fa fa-angle-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-sm-6 col-md-3 yamm-main">
+                                            <div class="col-lg-12 yamm-main-wrap">
+                                                <span class="title">
+                                                    <a id="ctl00_ctl13_HyperLink1" class="nmLink" href="../../catalogue/corporate-headwear">Categories</a></span>
+
+                                                <div class="row">
+                                                    <ul style="white-space: nowrap;" class="col-md-4"><li><a href="catalogue/headwear-accessories,caps">Caps</a></li><li><a href="catalogue/headwear-accessories,beanies">Beanies</a></li><li><a href="catalogue/headwear-accessories,scarves">Scarves</a></li><li><a href="catalogue/corporate-headwear,gloves">Gloves</a></li><li><a href="catalogue/headwear-accessories,beanie-sets">Beanie Sets</a></li></ul>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-sm-6 col-md-3 yamm-main">
+                                            <div class="col-lg-12 yamm-main-wrap">
+                                                <span class="title">Brands</span>
+                                                <div class="row hidden-xs hidden-sm">
+                                                    <ul style="white-space: nowrap;" class="col-md-4"><li><a href="catalogue/brands,altitude-clothing">Altitude Clothing</a></li><li><a href="catalogue/brands,altitude-headwear">Altitude Headwear</a></li><li><a href="catalogue/brands,biz-collection">Biz Collection</a></li><li><a href="catalogue/brands,cutter-buck">Cutter  Buck</a></li><li><a href="catalogue/brands,elevate">Elevate</a></li><li><a href="catalogue/brands,gary-player-collection">Gary Player Collection</a></li><li><a href="catalogue/brands,slazenger">Slazenger</a></li><li><a href="catalogue/brands,us-basic">US Basic</a></li></ul>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-md-6 hidden-xs hidden-sm yamm-side">
+                                            <span class="title">Recommended:</span>
+                                            <div class="row">
+
+                                                <div class="col-md-6">
+                                                    
+                                                            <a id="ctl00_ctl13_rptrFeatuedHeadwear1_ctl00_lnkFeaturedProductInfo" class="drodpown-recommended" href="/catalogue/headwear-accessories,caps/true-jersey-6-panel-cap">
+                                                                <div class="image-wrap">
+                                                                    <img id="ctl00_ctl13_rptrFeatuedHeadwear1_ctl00_imgFeaturedProductImage" alt="CAP-1009" title="New Jersey 6 Panel Cap" src="https://productcatalogue2015.s3.amazonaws.com/CAP-1009_260_250.jpg" style="border-width:0px;" />
+                                                                </div>
+                                                                <span id="ctl00_ctl13_rptrFeatuedHeadwear1_ctl00_lblFeaturedProductName" class="title-wrap">New Jersey 6 Panel Cap</span></a>
+                                                        
+                                                            <a id="ctl00_ctl13_rptrFeatuedHeadwear1_ctl01_lnkFeaturedProductInfo" class="drodpown-recommended" href="/catalogue/headwear-accessories,caps/wilderness-bush-hat">
+                                                                <div class="image-wrap">
+                                                                    <img id="ctl00_ctl13_rptrFeatuedHeadwear1_ctl01_imgFeaturedProductImage" alt="ALT-WIL" title="Wilderness Bush Hat" src="https://productcatalogue2015.s3.amazonaws.com/ALT-WIL_260_250.jpg" style="border-width:0px;" />
+                                                                </div>
+                                                                <span id="ctl00_ctl13_rptrFeatuedHeadwear1_ctl01_lblFeaturedProductName" class="title-wrap">Wilderness Bush Hat</span></a>
+                                                        
+                                                </div>
+
+                                                <div class="col-md-6">
+                                                    
+                                                            <a id="ctl00_ctl13_rptrFeatuedHeadwear2_ctl00_lnkFeaturedProductInfo" class="drodpown-recommended" href="/catalogue/headwear-accessories,caps/velocity-6-panel-cap">
+                                                                <div class="image-wrap">
+                                                                    <img id="ctl00_ctl13_rptrFeatuedHeadwear2_ctl00_imgFeaturedProductImage" alt="GP-1045" title="Velocity 6 Panel Cap" src="https://productcatalogue2015.s3.amazonaws.com/GP-1045_260_250.jpg" style="border-width:0px;" />
+                                                                </div>
+                                                                <span id="ctl00_ctl13_rptrFeatuedHeadwear2_ctl00_lblFeaturedProductName" class="title-wrap">Velocity 6 Panel Cap</span></a>
+                                                        
+                                                            <a id="ctl00_ctl13_rptrFeatuedHeadwear2_ctl01_lnkFeaturedProductInfo" class="drodpown-recommended" href="/catalogue/brands,altitude-headwear/normandy-bandana">
+                                                                <div class="image-wrap">
+                                                                    <img id="ctl00_ctl13_rptrFeatuedHeadwear2_ctl01_imgFeaturedProductImage" alt="ALT-NMD" title="Normandy Bandana" src="https://productcatalogue2015.s3.amazonaws.com/ALT-NMD_260_250.jpg" style="border-width:0px;" />
+                                                                </div>
+                                                                <span id="ctl00_ctl13_rptrFeatuedHeadwear2_ctl01_lblFeaturedProductName" class="title-wrap">Normandy Bandana</span></a>
+                                                        
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <!--/.dropdown-menu -->
+                </li>
+
+                <!-- Clearance -->
+                <li class="dropdown yamm-fw">
+                    <a class="dropdown-toggle" data-toggle="dropdown">Clearance <i class="fa fa-angle-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-12 col-lg-12 yamm-main">
+                                            <div class="col-lg-12">
+                                                <span class="title">
+                                                    <a id="ctl00_ctl13_navClearance" title="View All Clearance Items" class="nmLink" href="../../catalogue/all-clearance-items">Clearance</a>
+                                                </span>
+                                                <div class="row">
+                                                    <ul style="white-space: nowrap;" class="col-md-3"><li><a href="catalogue/all-clearance-items,gifting-clearance">Gifting Clearance</a></li><li><a href="catalogue/all-clearance-items,pen-clearance">Pen Clearance</a></li><li><a href="catalogue/all-clearance-items,winter-super-clearance-sale">Winter Super Clearance Sale</a></li><li><a href="catalogue/all-clearance-items,clothing-clearance-1">Clothing Clearance</a></li><li><a href="catalogue/all-clearance-items,headwear-clearance">Headwear Clearance</a></li></ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <!--/.dropdown-menu -->
+                </li>
+
+                <!-- Essential categories -->
+                
+
+                <li style="display: none;" class="dropdown yamm-fw"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Hampers <i class="fa fa-angle-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-8 col-lg-9 yamm-main">
+                                            <div class="col-lg-12 yamm-main-wrap">
+                                                <span class="title">Hampers</span>
+                                                <div class="row">
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="dropdown default-dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown">e-Services <i class="fa fa-angle-down"></i></a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a target="_blank" href="https://viewer.zoomcats.com/promotional-display">Display Catalogue</a></li>
+                        <li><a target="_blank" href="https://viewer.zoomcats.com/promotional-products-201920">2019/2020 Promotional Products Catalogue</a></li>
+                        <li><a target="_blank" href="https://viewer.zoomcats.com/altitude-corporate-gifts-20192020">2019/20 Altitude Promotional Products Catalogue </a></li>
+                        <li><a target="_blank" href="https://viewer.zoomcats.com/apparelandheadwear202021">2020/2021 Apparel and Headwear Catalogue </a></li>
+                        <li><a target="_blank" href="https://d33yj9nw58rehz.cloudfront.net/Downloads/Winter%20eCatalogue%202020.pdf">2020 Winter E-Catalogue</a></li>
+                        <li><a target="_blank" href="http://d33yj9nw58rehz.cloudfront.net/Downloads/Okiyo-Brand-Catalogue-2020.pdf">Okiyo Brand Catalogue</a></li>
+                        <li><a target="_blank" href="https://d33yj9nw58rehz.cloudfront.net/Downloads/Alex-Varga-Brand-Catalogue-2020.pdf">Alex Varga Brand Catalogue</a></li>
+                        <li><a target="_blank" href="https://d33yj9nw58rehz.cloudfront.net/Downloads/Eva-%26-Elm-Brand-Catalogue.pdf">Eva & Elm Brand Catalogue</a></li>
+                        <li><a target="_blank" href="https://d33yj9nw58rehz.cloudfront.net/Downloads/Andy-Cartwright-brand-catalogue.pdf">Andy Cartwright Brand Catalogue</a></li>
+                        <li><a target="_blank" href="https://d33yj9nw58rehz.cloudfront.net/Downloads/Kooshty-Brand-Catalogue-2020.pdf">Kooshty Brand Catalogue</a></li>
+                        <li><a target="_blank" href="https://d33yj9nw58rehz.cloudfront.net/Downloads/Swiss-Cougar-Brand-Catalogue-2020.pdf">Swiss Cougar Brand Catalogue</a></li>
+                        <li><a target="_blank" href="https://d33yj9nw58rehz.cloudfront.net/Downloads/DownloadManager/Clearance%20E-Catalogue.pdf">Clearance Catalogue</a></li>
+                       
+                    </ul>
+                </li>
+
+                <li class="dropdown yamm-fw"><a class="dropdown-toggle" data-toggle="dropdown">Knowledge Base <i class="fa fa-angle-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-sm-12 yamm-main">
+                                            <div class="col-lg-12">
+                                                <span class="title" style="margin-bottom: 10px;">Knowledge Base</span>
+                                                <div class="row downloadsSpan knowledge-base">
+                                                    <div class="row">
+                                                        <div class="col-md-3"><ul><li><span>Downloads</span></li><li><a href="https://d33yj9nw58rehz.cloudfront.net/Downloads/DownloadManager/Powerbank safety.pdf" target="_blank" />Power Bank Safety</a></li><li><a href="https://d33yj9nw58rehz.cloudfront.net/Downloads/DownloadManager/Power_of_promoFIN2 (2).pdf" target="_blank" />Power of Promo</a></li></ul><ul><li><span>Guides & FAQ's</span></li><li><a href="https://d33yj9nw58rehz.cloudfront.net/Downloads/LOGO24%20guide-FIN.pdf" target="_blank" />Logo24 Guide</a></li></ul></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+
+            </ul>
+        </div>
+        <!--/.nav-collapse -->
+    </div>
+</nav>
+<!--/.navbar-primary -->
+
+
+        </header>
+
+        <main role="main">
+            
+    
+    <div class="container">
+        <div class="glips" style="margin:0 auto; width:514px; display:block; padding:0;"><img src="images/404.jpg" alt="404 Page Not Found" title="Error 404" /></div>
+
+        <div class="row glips">
+            <p>
+                You are seeing this page because there is either something wrong with the URL you are trying to access or the page does not exist anymore.
+                <br /><br />
+                If you were searching for a product or browsing products in a category please try again. 
+                <br />
+                But if you still get redirected to this page, please <a href="Contact.aspx">contact us</a> so we can fix the issue.
+                <br /><br />
+                It is possible that the URL of the product or category that you are trying to view has changed from the last time you accessed it, 
+                so if you are trying to open a page from a link you saved previously you might have to rather browse using the navigation menu or by searching for the product. 
+            </p>
+        </div>
+    </div>
+    
+
+
+            <div id="divWait" class="PopupMessage" style="display: none;">
+                <div style="text-align: center">
+                    <img src="https://d33yj9nw58rehz.cloudfront.net/images/spinner.gif" alt="Loading, please wait" title="Content is loading" />
+                </div>
+                <div style="text-align: center">
+                    Please wait while we complete your request...
+					<br>
+                </div>
+            </div>
+
+        </main>
+
+        <footer id="masterFooter" role="contentinfo">
+            <div class="footer-top">
+                <div class="container">
+                    <div class="row"></div>
+                </div>
+            </div>
+            <div class="footer-bottom text-center">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12"></div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+    </form>
+
+    <script src="https://d33yj9nw58rehz.cloudfront.net/promogifts/js/vendor.bundle18.min.js"></script>
+	<script src="https://d33yj9nw58rehz.cloudfront.net/promogifts/js/ProductCatalog-bundle55.min.js"></script>
+    
+    
+    <script src="js/glitch.jquery.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            //$('div.glips').glitch();
+        });
+    </script>
+
+
+    
+
+    <div class="modal fade" id="otherMessageDialog" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+        <div class="modal-dialog modal-default">
+            <div class="modal-content">
+                <div class="modal-header">
+                </div>
+                <div class="modal-body">
+                    <p><span id="lblOtherMessageText"></span></p>
+                </div>
+                <div class="modal-footer">
+                    <a id="btnMainAlertOk" href="javascript:void(0)" class="btn btn-inline blue" data-dismiss="modal">OK</a>
+                    <span id="Alertspinner" style="display: none;">
+                        <img src="https://d33yj9nw58rehz.cloudfront.net/images/spinner.gif" alt="Loading, please wait" title="Content is loading" />
+                        <br />
+                        Please wait...</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-73597612-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+        $(function () {
+            $("#btnMenuClick").click(function () {
+                $(".topnavlinks").slideToggle();
+            });
+        });
+
+    </script>
+
+</body>
+</html>
